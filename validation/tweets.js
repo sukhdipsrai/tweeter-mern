@@ -1,4 +1,4 @@
-const { default: validator } = require('validator');
+// const { default: validator } = require('validator');
 const Validator = require('validator');
 const validText = require('./valid-text');
 
